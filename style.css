@@ -166,7 +166,7 @@ nav ul li{
 
 
 /* --------------Media Queries-------- */
-/* @media(max-width:800px){
+@media(max-width:800px){
     .lo2{
         flex-direction: column;
     }
@@ -189,4 +189,4 @@ nav ul li{
         height: 180vh;
         overflow: hidden;
     }
-}  */
+} 
